@@ -1,6 +1,6 @@
 ### Hi, I'm Rares 👋
 
-I'm Rares Dragomir a develloper from France
+I'm Rares Dragomir a developer from France
 
 :mailbox: Reach me out!
 
