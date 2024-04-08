@@ -4,7 +4,7 @@ I'm Rares Dragomir a develloper from France
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rares_Dragomir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/maksym-rudnyi/](www.linkedin.com/in/rares-dragomir-443ba02b7)
+[![Linkedin Badge](https://img.shields.io/badge/-Rares_Dragomir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/rares-dragomir-443ba02b7)
 [![Mail Badge](https://img.shields.io/badge/-Rares_Dragomir-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rares.dragomir@epitech.eu)
 
 #### Top Technologies
